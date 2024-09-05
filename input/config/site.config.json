@@ -166,7 +166,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii uuid-1725528015541-935070999",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -176,8 +176,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1725528015541-935070999",
-            "key": "publii-s3-key uuid-1725528015541-935070999",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -188,7 +188,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "publii-git-password uuid-1725528015541-935070999",
+            "password": "",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -198,7 +198,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token uuid-1725528015541-935070999",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -207,11 +207,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1725528015541-935070999"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1725528015541-935070999",
-            "token": "publii-netlify-token uuid-1725528015541-935070999"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -220,9 +220,9 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": "/home/nihil/Documents/Publii/sites/resurectum/dist"
+            "outputDirectory": "/home/nihil/Documents/Publii/sites/resurectum/docs"
         }
     },
     "theme": "terminal",
-    "syncDate": 1725534075908
+    "syncDate": 1725534575523
 }
