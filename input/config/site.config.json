@@ -220,9 +220,9 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": "/home/nihil/Documents/Publii/sites/resurectum/docs"
+            "outputDirectory": "/home/nihil/Documents/Publii/sites/resurectum/dist"
         }
     },
     "theme": "terminal",
-    "syncDate": 1725534575523
+    "syncDate": 1725534978979
 }
