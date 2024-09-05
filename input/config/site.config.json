@@ -219,10 +219,10 @@
             "prefix": ""
         },
         "manual": {
-            "output": "catalog",
-            "outputDirectory": "/home/nihil/Documents/Publii/sites/resurectum/dist"
+            "output": "zip-archive",
+            "outputDirectory": ""
         }
     },
     "theme": "terminal",
-    "syncDate": 1725534978979
+    "syncDate": 1725537261092
 }
