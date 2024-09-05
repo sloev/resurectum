@@ -1,0 +1,24 @@
+name: extract a zip file
+
+    on:
+      push:
+        paths:
+        - '**.zip'
+      workflow_dispatch:
+
+    jobs:
+      unzip:
+        runs-on: ubuntu-latest
+
+        steps:
+          - uses: actions/checkout@v2
+
+          - name:
+            run: |
+              unzip resurectum.zip docs
+              rm resurectum.zip
+              git config user.name github-actions
+              git config user.email github-actions@github.com
+              git add docs/*
+              git commit -m "unzip"
+              git push origin main
