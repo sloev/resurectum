@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "eebbf3d411092846f446210558155715"
+        "md5": "cd911bd8facdf163447c95c6906cb2f6"
     },
     {
         "path": "CNAME",
@@ -25,9 +25,54 @@
         "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
+        "path": "assets/css/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/images/blog.2.png",
+        "type": "file",
+        "md5": "bb7078543914fead6f93fbc516d6dfdf"
+    },
+    {
+        "path": "/assets/css/images/blog.png",
+        "type": "file",
+        "md5": "f7f13506fd53eedd33d3bf52edc46b35"
+    },
+    {
+        "path": "/assets/css/images/forside.2.png",
+        "type": "file",
+        "md5": "c6ce7d20bd5208e1df59adef70841ba1"
+    },
+    {
+        "path": "/assets/css/images/forside.png",
+        "type": "file",
+        "md5": "696630ec6ae0704129f38944dd9bec04"
+    },
+    {
+        "path": "/assets/css/images/kontakt.2.png",
+        "type": "file",
+        "md5": "9a9f86f689a6e66f598f9d2cd71effcc"
+    },
+    {
+        "path": "/assets/css/images/kontakt.png",
+        "type": "file",
+        "md5": "6d480b125139b3506fbaba5e84f9fece"
+    },
+    {
+        "path": "/assets/css/images/persongalleri.2.png",
+        "type": "file",
+        "md5": "406b444ddb53f845ea57b6446a5fc6bb"
+    },
+    {
+        "path": "/assets/css/images/persongalleri.png",
+        "type": "file",
+        "md5": "692d6050e97880c3e6f4803b1fb8e436"
+    },
+    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "20c63eb052ce015288b2bdf5841729f6"
+        "md5": "03332d078e7f10b2e2a7d024836d59b6"
     },
     {
         "path": "/assets/css/photoswipe.css",
@@ -37,7 +82,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "d78e5cf463df7a1fef116ae8d3196d05"
+        "md5": "2fb79c345b49d55cbf041832bf79beee"
     },
     {
         "path": "assets/dynamic",
@@ -125,19 +170,69 @@
         "md5": false
     },
     {
+        "path": "authors/rasmus-pave",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/rasmus-pave/index.html",
+        "type": "file",
+        "md5": "d467c0c13851c582d0a9b76a7851a97d"
+    },
+    {
+        "path": "blogpost-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/blogpost-1/index.html",
+        "type": "file",
+        "md5": "af4226925861f15f707ed332f1e606a9"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "db9081204c5ca272edc0897262c49bc2"
+        "md5": "f18dae90c9f6684739971d9466d159b3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4dffe46afec1140dd911fbebe9064fc4"
+        "md5": "0d7eff5461d6e2c64d2df1c3d8253d55"
+    },
+    {
+        "path": "forside",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/forside/index.html",
+        "type": "file",
+        "md5": "99601693ac16f357ef3ee1d6bef56573"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d6cb04387b646f507093f850a3fc57ba"
+        "md5": "1e0f4b56b8fa6e0cbb6182f5acd58eb4"
+    },
+    {
+        "path": "kontakt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kontakt/index.html",
+        "type": "file",
+        "md5": "263f08cb1d4f40afd7d16dae13cb30b2"
+    },
+    {
+        "path": "resurectum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/resurectum/index.html",
+        "type": "file",
+        "md5": "d1a5d247a4d9b869142ee98767fcbe88"
     },
     {
         "path": "robots.txt",
@@ -147,7 +242,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "341cd9703eb81a82a3ad4d56f495061b"
+        "md5": "ff0b50ee44a5324c1660ff49a1fe34ca"
     },
     {
         "path": "sitemap.xsl",
@@ -160,8 +255,28 @@
         "md5": false
     },
     {
+        "path": "tags/blogpost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/blogpost/index.html",
+        "type": "file",
+        "md5": "83f5e9e54a40b5d7841934b50503c276"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "dcf65b4d506cfc98bd2929fbcd693e39"
+        "md5": "8194c821281f75a442d145f09a2b63e5"
+    },
+    {
+        "path": "tags/persongalleri",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/persongalleri/index.html",
+        "type": "file",
+        "md5": "6105422d3bd11a437ed94d48aaf12f04"
     }
 ]

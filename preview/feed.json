@@ -9,5 +9,55 @@
         "name": "Rasmus Pave"
     },
     "items": [
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/forside/index.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/forside/index.html",
+            "title": "Forside",
+            "author": {
+                "name": "Rasmus Pave"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-06T11:50:33+02:00",
+            "date_modified": "2024-09-06T11:50:33+02:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/kontakt/index.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/kontakt/index.html",
+            "title": "Kontakt",
+            "author": {
+                "name": "Rasmus Pave"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-06T11:50:07+02:00",
+            "date_modified": "2024-09-06T11:50:07+02:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/blogpost-1/index.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/blogpost-1/index.html",
+            "title": "Blogpost 1",
+            "author": {
+                "name": "Rasmus Pave"
+            },
+            "tags": [
+                   "blogpost"
+            ],
+            "date_published": "2024-09-06T11:49:13+02:00",
+            "date_modified": "2024-09-06T11:49:13+02:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/resurectum/index.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/resurectum/preview/resurectum/index.html",
+            "title": "Resurectum",
+            "author": {
+                "name": "Rasmus Pave"
+            },
+            "tags": [
+                   "persongalleri"
+            ],
+            "date_published": "2024-09-06T11:48:37+02:00",
+            "date_modified": "2024-09-06T11:48:52+02:00"
+        }
     ]
 }

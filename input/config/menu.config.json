@@ -1,1 +1,57 @@
-[]
+[
+    {
+        "name": "menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1725616251342,
+                "label": "Forside",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "forside-link",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1725616181447,
+                "label": "Persongalleri",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "persongalleri-link",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1725616193626,
+                "label": "Blog",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "blog-link",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1725616265139,
+                "label": "Kontakt",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "kontakt-link",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

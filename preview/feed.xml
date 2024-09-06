@@ -3,10 +3,60 @@
     <title>Resurectum</title>
     <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/feed.xml" rel="self" />
     <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-09-06T11:50:33+02:00</updated>
     <author>
         <name>Rasmus Pave</name>
     </author>
     <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview</id>
 
+    <entry>
+        <title>Forside</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/forside/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/forside/index.html</id>
+
+        <updated>2024-09-06T11:50:33+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/kontakt/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/kontakt/index.html</id>
+
+        <updated>2024-09-06T11:50:07+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Blogpost 1</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/blogpost-1/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/blogpost-1/index.html</id>
+            <category term="blogpost"/>
+
+        <updated>2024-09-06T11:49:13+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Resurectum</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/resurectum/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/resurectum/index.html</id>
+            <category term="persongalleri"/>
+
+        <updated>2024-09-06T11:48:37+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

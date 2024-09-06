@@ -61,6 +61,7 @@ html.no-scroll {
 }
 
 body {
+  
   background: hsla(var(--background), var(--alpha, 1));
   color: hsla(var(--color), var(--alpha, 1));
   font-family: var(--body-font);

@@ -3,10 +3,60 @@
     <title>Resurectum</title>
     <link href="https://resurectum.buro.earth/feed.xml" rel="self" />
     <link href="https://resurectum.buro.earth" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-09-06T11:50:33+02:00</updated>
     <author>
         <name>Rasmus Pave</name>
     </author>
     <id>https://resurectum.buro.earth</id>
 
+    <entry>
+        <title>Forside</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/forside/"/>
+        <id>https://resurectum.buro.earth/forside/</id>
+
+        <updated>2024-09-06T11:50:33+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/kontakt/"/>
+        <id>https://resurectum.buro.earth/kontakt/</id>
+
+        <updated>2024-09-06T11:50:07+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Blogpost 1</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/blogpost-1/"/>
+        <id>https://resurectum.buro.earth/blogpost-1/</id>
+            <category term="blogpost"/>
+
+        <updated>2024-09-06T11:49:13+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Resurectum</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/resurectum/"/>
+        <id>https://resurectum.buro.earth/resurectum/</id>
+            <category term="persongalleri"/>
+
+        <updated>2024-09-06T11:48:37+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
