@@ -1,6 +1,6 @@
 {{> head}}
 {{> top}}
-<main>
+<main class="content">
    {{#post}}
       <article class="post">
          <div class="hero">
@@ -64,22 +64,7 @@
                   <h1>
                      {{title}}
                   </h1>
-                  {{#if @config.post.displayAuthor}}
-                     <div class="post__meta post__meta--author">
-                        {{#author}}
-                           {{#if avatar}}
-                              <img 
-                                 src="{{avatarImage.url}}" 
-                                 {{ lazyload "eager" }}
-                                 height="{{avatarImage.height}}"
-                                 width="{{avatarImage.width}}"
-                                 class="post__author-thumb" 
-                                 alt="{{avatarImage.alt}}">
-                           {{/if}}
-                           <a href="{{url}}" class="feed__author">{{name}}</a>
-                        {{/author}}
-                     </div>
-                  {{/if}}
+                 
                </div>
             </header>
          </div>
@@ -128,31 +113,7 @@
                   {{/checkIfAll}}          
                {{/if}}
 
-               {{#if @config.post.displayAuthorBio}}
-                  <div class="post__bio bio">
-                     {{#author}}
-                        {{#if avatar}}                          
-                           <img 
-                              src="{{avatarImage.url}}" 
-                              {{ lazyload "lazy" }}
-                              height="{{avatarImage.height}}"
-                              width="{{avatarImage.width}}" 
-                              class="bio__avatar" 
-                              alt="{{avatarImage.alt}}">                          
-                        {{/if}}
-                        <div>
-                           <h3 class="bio__name">
-                              <a href="{{url}}" rel="author">{{name}}</a>
-                           </h3>
-                           {{#if description}}
-                              <div class="bio__desc">
-                                 {{{description}}}
-                              </div>
-                           {{/if}}
-                        </div>
-                     {{/author}}
-                  </div>
-               {{/if}}
+            
             </footer>
          {{/checkIfAny}}
       </article>

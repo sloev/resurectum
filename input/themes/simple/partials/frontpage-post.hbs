@@ -62,22 +62,7 @@
                   <h1>
                      {{title}}
                   </h1>
-                  {{#if postViewConfig.displayAuthor}}
-                     <div class="post__meta post__meta--author">
-                        {{#author}}
-                           {{#if avatar}}
-                              <img 
-                                 src="{{avatarImage.url}}" 
-                                 {{ lazyload "eager" }}
-                                 height="{{avatarImage.height}}"
-                                 width="{{avatarImage.width}}"
-                                 class="post__author-thumb" 
-                                 alt="{{avatarImage.alt}}">
-                           {{/if}}
-                           <a href="{{url}}" class="feed__author">{{name}}</a>
-                        {{/author}}
-                     </div>
-                  {{/if}}
+                 
                </div>
             </header>
          </div>

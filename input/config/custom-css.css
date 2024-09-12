@@ -1,23 +1,29 @@
 /*
  * Put your custom CSS code here
  */
-
+ body::after{
+    position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
+    content:url('images/home.0.gif') url('images/home.1.gif') url('images/butik.0.png') url('images/butik.1.png') url('images/blog.0.png') url('images/blog.1.png') url('images/kontakt.0.png') url('images/kontakt.1.png') url('images/persongalleri.0.png') url('images/persongalleri.1.png');
+ }
 
 .forside-link {
     position: relative;
     margin:5px;
 
     background-repeat: no-repeat;
-    background-size: 100px 50px;
-    min-width: 100px;
-    min-height: 50px;
+    background-size: contain;
+    background-position: center center;
+    flex-grow: 2;
+    min-width: 70px;
+    min-height: 60px;
 
-    background-image: url('images/forside.png');
+    background-image: url('images/home.0.gif');
 }
 
 .forside-link:hover {
     cursor: pointer;
-    background-image: url('images/forside.2.png');
+    background-image: url('images/home.1.gif');
+
 }
 
 .forside-link a {
@@ -31,17 +37,52 @@
 }
 
 
+.butik-link {
+    position: relative;
+    margin:5px;
+
+
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    background-position: center center;
+    flex-grow: 1;
+    min-width: 70px;
+    min-height: 60px;
+
+
+    background-image: url('images/butik.0.png');
+}
+
+.butik-link a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.butik-link:hover {
+    cursor: pointer;
+    background-image: url('images/butik.1.png');
+}
+
+
 .persongalleri-link {
     position: relative;
     margin:5px;
 
 
     background-repeat: no-repeat;
-    background-size: 100px 50px;
-    min-width: 100px;
-    min-height: 50px;
+    background-size: contain;
+    background-position: center center;
+    flex-grow: 1;
+    min-width: 130px;
+    min-height: 70px;
 
-    background-image: url('images/persongalleri.png');
+    background-image: url('images/persongalleri.0.png');
 }
 
 .persongalleri-link a {
@@ -56,20 +97,22 @@
 
 .persongalleri-link:hover {
     cursor: pointer;
-    background-image: url('images/persongalleri.2.png');
+    background-image: url('images/persongalleri.1.png');
 }
-
 .kontakt-link {
     position: relative;
     margin:5px;
 
 
     background-repeat: no-repeat;
-    background-size: 100px 50px;
-    min-width: 100px;
-    min-height: 50px;
+    background-size: contain;
+    background-position: center center;
+    flex-grow: 1;
+    min-width: 70px;
+    min-height: 60px;
 
-    background-image: url('images/kontakt.png');
+
+    background-image: url('images/kontakt.0.png');
 }
 
 .kontakt-link a {
@@ -84,7 +127,7 @@
 
 .kontakt-link:hover {
     cursor: pointer;
-    background-image: url('images/kontakt.2.png');
+    background-image: url('images/kontakt.1.png');
 }
 
 .blog-link {
@@ -92,11 +135,13 @@
     margin:5px;
 
     background-repeat: no-repeat;
-    background-size: 100px 50px;
-    min-width: 100px;
-    min-height: 50px;
+    background-size: contain;
+    background-position: center center;
+    flex-grow: 1;
+    min-width: 70px;
+    min-height: 60px;
 
-    background-image: url('images/blog.png');
+    background-image: url('images/blog.0.png');
 }
 
 .blog-link a {
@@ -111,10 +156,12 @@
 
 .blog-link:hover {
     cursor: pointer;
-    background-image: url('images/blog.2.png');
+    background-image: url('images/blog.1.png');
 }
 
 .mymenu {
     display: flex;
+    flex-direction: row;
+    padding-bottom:100px;
 }
 

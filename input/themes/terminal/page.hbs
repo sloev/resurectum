@@ -8,6 +8,8 @@
          </div>
       {{/if}}
       <article class="post">      
+                  <div class="post_content_area">
+
          <header>
             <h1 class="post__title">{{title}}</h1>
             {{#checkIfAny @config.page.displayDate @config.page.displayAuthor}}
@@ -22,13 +24,6 @@
                      </time>
                   {{/if}}
                
-                  {{#if @config.page.displayAuthor}}
-                     <span class="post__author">
-                        {{#author}}
-                           <a href="{{url}}" class="feed__author">{{name}}</a>
-                        {{/author}}
-                     </span>
-                  {{/if}}
                </div>
             {{/checkIfAny}}   
          </header>
@@ -88,6 +83,11 @@
                {{/if}}
             </footer>
          {{/checkIfAny}}
+            <div class="post_paper_start"></div>
+
+          </div>   
+         <div class="post_paper_end"></div>
+
       </article>
 
       {{#if @config.page.displayChildPages}}

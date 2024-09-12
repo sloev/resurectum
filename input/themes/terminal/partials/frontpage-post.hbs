@@ -1,4 +1,4 @@
-<main>
+<main class="content page">
    {{#getPost @config.custom.frontPost}}
 {{#if @customHTML.afterPost}}
          <div class="banner banner--before-post">
@@ -6,6 +6,8 @@
          </div>
       {{/if}}
       <article class="post">      
+                           <div class="post_content_area">
+
          <header>
             <h1 class="post__title">{{title}}</h1>
             {{#checkIfAny postViewConfig.displayDate postViewConfig.displayAuthor}}
@@ -20,13 +22,7 @@
                      </time>
                   {{/if}}
                
-                  {{#if postViewConfig.displayAuthor}}
-                     <span class="post__author">
-                        {{#author}}
-                           <a href="{{url}}" class="feed__author">{{name}}</a>
-                        {{/author}}
-                     </span>
-                  {{/if}}
+               
                </div>
             {{/checkIfAny}}   
 
@@ -59,6 +55,10 @@
                   {{/if}}
             </footer>
          {{/if}}
+           <div class="post_paper_start"></div>
+
+          </div>   
+         <div class="post_paper_end"></div>
       </article>
       
       {{#if postViewConfig.displayComments}}

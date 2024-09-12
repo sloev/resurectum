@@ -3,7 +3,7 @@
 {{#checkIf @config.custom.frontSource '==' "post" }}
    {{> frontpage-post}}
 {{else}}
-   <main>
+   <main class="content">
       <div class="hero">
          {{#if @config.custom.uploadHero}}
             <figure class="hero__image hero__image--overlay">

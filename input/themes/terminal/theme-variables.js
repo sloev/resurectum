@@ -552,7 +552,7 @@ if (params.accentColor === 'custom') {
       --headings-line-height: ${params.fontHeadingsLineHeight};
       --accent:             ${accentHSL};
       --background:         248, 11%, 15%;
-      --color:              0,0%,100%;
+      --color:              ${params.primaryColor};
       --highlight-color:    #FFA96B;
       --info-color:         #A8D8FF;
       --success-color:      #6DD18C;

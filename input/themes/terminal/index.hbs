@@ -3,7 +3,7 @@
 {{#checkIf @config.custom.frontSource '==' "post" }}
    {{> frontpage-post}}
 {{else}}
-   <main class="content">
+   <main class="content page">
       {{#if @renderer.isFirstPage}}
          {{#if @config.custom.hero}}
             <div class="hero framed">
@@ -14,6 +14,8 @@
       <div class="posts">
          {{#each posts}}
             <article class="post">
+                                 <div class="post_content_area">
+
                <header>
                   {{#checkIf @index '==' 0}}
                      {{#checkIf @config.custom.hero '==' false}}
@@ -92,6 +94,10 @@
                         <a href="{{url}}" class="read-more">{{ translate 'post.readMore' }} &#8594;</a>
                   {{/if}}
                </div>
+                 <div class="post_paper_start"></div>
+
+          </div>   
+         <div class="post_paper_end"></div>
             </article>
          {{/each}}
          {{> pagination}}

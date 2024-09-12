@@ -1,16 +1,17 @@
 {{> head}}
 {{> navbar}}
-<main class="content">
+<main class="content page">
    {{#post}}
       {{#if @customHTML.beforePost}}
          <div class="banner banner--before-post">
             {{{@customHTML.beforePost}}}
          </div>
       {{/if}}
-      <article class="post">      
+      <article class="post">   
+         <div class="post_content_area">
          <header>
             <h1 class="post__title">{{title}}</h1>
-            {{#checkIfAny @config.post.displayDate @config.post.displayAuthor}}
+            {{#checkIfAny @config.post.displayDate }}
                <div class="post__meta">
                   {{#if @config.post.displayDate}}
                      <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
@@ -22,13 +23,6 @@
                      </time>
                   {{/if}}
                
-                  {{#if @config.post.displayAuthor}}
-                     <span class="post__author">
-                        {{#author}}
-                           <a href="{{url}}" class="feed__author">{{name}}</a>
-                        {{/author}}
-                     </span>
-                  {{/if}}
                </div>
             {{/checkIfAny}}   
 
@@ -69,6 +63,7 @@
          <div class="post__entry">           
             {{{text}}}            
          </div>
+        
 
          {{#checkIfAny @config.post.displayLastUpdatedDate  @config.post.displayShareButtons}}
             <footer class="wrapper post__footer">
@@ -120,6 +115,10 @@
                </nav>
             {{/checkIfAny}}
          {{/if}}
+                  <div class="post_paper_start"></div>
+
+          </div>   
+         <div class="post_paper_end"></div>
       </article>
       
       {{#if @config.post.displayComments}}

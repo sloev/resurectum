@@ -63,7 +63,7 @@ html.no-scroll {
 body {
   
   background: hsla(var(--background), var(--alpha, 1));
-  color: hsla(var(--color), var(--alpha, 1));
+  color: #000000;
   font-family: var(--body-font);
   font-variation-settings: "wght" var(--font-weight-normal);
   letter-spacing: var(--letter-spacing);
@@ -488,6 +488,11 @@ input[type=radio] {
 }
 
 .header {
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-image: url(images/paper_header.png);
+  padding: 0px var(--page-margin) 70px var(--page-margin);
   display: flex;
 }
 @media all and (max-width: 42.6875em) {
@@ -916,10 +921,12 @@ input[type=radio] {
 }
 
 .container {
+  background-size: 100%;
+  background-image: url("images/background.jpg");
+  background-repeat: repeat-y;
   border-right: 1px solid hsla(var(--color), var(--alpha, 0.1));
   display: flex;
   flex-direction: column;
-  padding: var(--page-margin);
   max-width: var(--page-width);
   min-height: 100vh;
 }
@@ -930,6 +937,7 @@ input[type=radio] {
 
 .content {
   display: flex;
+  padding: var(--page-margin);
   flex-direction: column;
 }
 .content ul:not(.post__toc ul) {
@@ -991,10 +999,31 @@ input[type=radio] {
 }
 
 .post {
+  
   width: 100%;
   text-align: left;
   margin: calc(var(--baseline) * 5) auto;
-  padding: calc(var(--baseline) * 5) 0;
+}
+.post_content_area {
+  background-image: url(images/paper_post.2.png);
+  background-position: center top;
+  background-repeat: repeat-y;
+  background-size: 100% 100%;
+}
+
+.post_paper_start {
+  background-image: url(images/paper_post.1.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  min-height:50px;
+}
+.post_paper_end {
+  min-height: 50px;
+  background-image: url(images/paper_post.0.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 .post:not(:last-of-type) {
   border-bottom: 1px solid hsla(var(--color), var(--alpha, 0.1));
@@ -1108,6 +1137,7 @@ input[type=radio] {
   margin-top: calc(var(--baseline) * 5);
 }
 .post__entry {
+
   margin-top: calc(var(--baseline) * 7.5);
 }
 .post__entry > :nth-child(1) {

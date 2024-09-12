@@ -17,13 +17,13 @@
             },
             {
                 "id": 1725616181447,
-                "label": "Persongalleri",
+                "label": "Butik",
                 "title": "",
                 "type": "tag",
                 "target": "_self",
                 "rel": "",
-                "link": 1,
-                "cssClass": "persongalleri-link",
+                "link": 3,
+                "cssClass": "butik-link",
                 "isHidden": false,
                 "items": []
             },
@@ -48,6 +48,18 @@
                 "rel": "",
                 "link": 3,
                 "cssClass": "kontakt-link",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1726131171684,
+                "label": "Persongalleri",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "persongalleri-link",
                 "isHidden": false,
                 "items": []
             }

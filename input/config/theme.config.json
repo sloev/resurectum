@@ -19,13 +19,13 @@
         "listingFeaturedImage": true,
         "listingAuthor": true,
         "listingDate": true,
-        "listingTag": "tags",
+        "listingTag": "none",
         "listingReadMore": true,
         "submenu": "custom",
         "submenuWidth": "240",
         "mobilemenu": "overlay",
         "mobilemenuExpandableSubmenus": false,
-        "accentColor": "135, 54%, 72%",
+        "accentColor": "#000000",
         "customAccentColor": "#FFA96B",
         "fontBody": "jetbrainsmono",
         "disableFontBodyItalic": false,
@@ -83,25 +83,25 @@
         "fontHeadingsItalic": true
     },
     "postConfig": {
-        "displayDate": 1,
-        "displayAuthor": 1,
-        "displayLastUpdatedDate": 1,
-        "displayTags": 1,
-        "displayShareButtons": 1,
-        "displayPostNavigation": 1,
+        "displayDate": "1",
+        "displayAuthor": "0",
+        "displayLastUpdatedDate": "0",
+        "displayTags": "0",
+        "displayShareButtons": "0",
+        "displayPostNavigation": "0",
         "displayComments": 0
     },
     "tagConfig": {
-        "displayPostCounter": 1,
-        "displayDescription": 1,
+        "displayPostCounter": "0",
+        "displayDescription": "0",
         "displayPostList": 1
     },
     "authorConfig": {
-        "displayAvatar": 1,
-        "displayPostCounter": 1,
-        "displayDescription": 1,
-        "displayWebsite": 1,
-        "displayPostList": 1
+        "displayAvatar": "0",
+        "displayPostCounter": "0",
+        "displayDescription": "0",
+        "displayWebsite": "0",
+        "displayPostList": "0"
     },
     "defaultTemplates": {
         "post": ""
