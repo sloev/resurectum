@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "cd911bd8facdf163447c95c6906cb2f6"
+        "md5": "546796ba13c468d98b705832f7a819b6"
     },
     {
         "path": "CNAME",
@@ -30,6 +30,26 @@
         "md5": false
     },
     {
+        "path": "/assets/css/images/Wood-Types-Banner-2000x1000-1.jpg",
+        "type": "file",
+        "md5": "bb91c6c337137b71a379af5fcfe5590c"
+    },
+    {
+        "path": "/assets/css/images/background.jpg",
+        "type": "file",
+        "md5": "10f83045d63471b5211af8d265dba8d9"
+    },
+    {
+        "path": "/assets/css/images/blog.0.png",
+        "type": "file",
+        "md5": "eba8632d6f03d61a027d91157263f24a"
+    },
+    {
+        "path": "/assets/css/images/blog.1.png",
+        "type": "file",
+        "md5": "4208ae735be22d041fa4d551241f170d"
+    },
+    {
         "path": "/assets/css/images/blog.2.png",
         "type": "file",
         "md5": "bb7078543914fead6f93fbc516d6dfdf"
@@ -38,6 +58,21 @@
         "path": "/assets/css/images/blog.png",
         "type": "file",
         "md5": "f7f13506fd53eedd33d3bf52edc46b35"
+    },
+    {
+        "path": "/assets/css/images/butik.0.png",
+        "type": "file",
+        "md5": "d6fd4744be07fec3905eca7d7da67fcc"
+    },
+    {
+        "path": "/assets/css/images/butik.1.png",
+        "type": "file",
+        "md5": "168aa4f124d5f1c5d6f87caaef804776"
+    },
+    {
+        "path": "/assets/css/images/close-up-of-brown-cork-board-texture-background-photo.jpg",
+        "type": "file",
+        "md5": "c927261a0278525ddc386437b8f1bb57"
     },
     {
         "path": "/assets/css/images/forside.2.png",
@@ -50,6 +85,26 @@
         "md5": "696630ec6ae0704129f38944dd9bec04"
     },
     {
+        "path": "/assets/css/images/home.0.gif",
+        "type": "file",
+        "md5": "8a9295b7bfcc411144c27c46c514fb36"
+    },
+    {
+        "path": "/assets/css/images/home.1.gif",
+        "type": "file",
+        "md5": "db9c10e84601bf53b325d4981c56f9bc"
+    },
+    {
+        "path": "/assets/css/images/kontakt.0.png",
+        "type": "file",
+        "md5": "0dbd22ad0dd92f6e37395c32ad5fee37"
+    },
+    {
+        "path": "/assets/css/images/kontakt.1.png",
+        "type": "file",
+        "md5": "95dfbfaaba4afdb3ccf18ab6b1b78cc7"
+    },
+    {
         "path": "/assets/css/images/kontakt.2.png",
         "type": "file",
         "md5": "9a9f86f689a6e66f598f9d2cd71effcc"
@@ -58,6 +113,36 @@
         "path": "/assets/css/images/kontakt.png",
         "type": "file",
         "md5": "6d480b125139b3506fbaba5e84f9fece"
+    },
+    {
+        "path": "/assets/css/images/paper_header.png",
+        "type": "file",
+        "md5": "4e59aff8431c0d871de4b1aa9b7083d8"
+    },
+    {
+        "path": "/assets/css/images/paper_post.0.png",
+        "type": "file",
+        "md5": "e07cebb57cc79172b4a8ac24f988f03b"
+    },
+    {
+        "path": "/assets/css/images/paper_post.1.png",
+        "type": "file",
+        "md5": "f5958331d2a6bfe7678c67cfe6189cdc"
+    },
+    {
+        "path": "/assets/css/images/paper_post.2.png",
+        "type": "file",
+        "md5": "1cf180584ec6bc5dfa4c6859d9d9e6ee"
+    },
+    {
+        "path": "/assets/css/images/persongalleri.0.png",
+        "type": "file",
+        "md5": "432f6d8a4598e281010dd2fe7e282edd"
+    },
+    {
+        "path": "/assets/css/images/persongalleri.1.png",
+        "type": "file",
+        "md5": "94fb47ed957cf5d0a5575622271a67c5"
     },
     {
         "path": "/assets/css/images/persongalleri.2.png",
@@ -70,9 +155,14 @@
         "md5": "692d6050e97880c3e6f4803b1fb8e436"
     },
     {
+        "path": "/assets/css/images/texturefabrik_tornpaper_02.webp",
+        "type": "file",
+        "md5": "02dfd47016e7cb8206819be010adc4a2"
+    },
+    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "03332d078e7f10b2e2a7d024836d59b6"
+        "md5": "c541e9431c02083ac7ea22b554f0108a"
     },
     {
         "path": "/assets/css/photoswipe.css",
@@ -82,7 +172,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "2fb79c345b49d55cbf041832bf79beee"
+        "md5": "3ffa8894eb9b18254fc909ce0e6bf569"
     },
     {
         "path": "assets/dynamic",
@@ -177,7 +267,17 @@
     {
         "path": "/authors/rasmus-pave/index.html",
         "type": "file",
-        "md5": "d467c0c13851c582d0a9b76a7851a97d"
+        "md5": "2c829af36d5b171c525aae18c6d4ad0d"
+    },
+    {
+        "path": "balle",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/balle/index.html",
+        "type": "file",
+        "md5": "442b9401ec8d8a55bb3b074bd085cd71"
     },
     {
         "path": "blogpost-1",
@@ -187,17 +287,27 @@
     {
         "path": "/blogpost-1/index.html",
         "type": "file",
-        "md5": "af4226925861f15f707ed332f1e606a9"
+        "md5": "9473757fef4a4c01293aa662cd7391a7"
+    },
+    {
+        "path": "en-ting-man-kan-kobe",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/en-ting-man-kan-kobe/index.html",
+        "type": "file",
+        "md5": "9c683b0bf4221f593883ab924e26788e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f18dae90c9f6684739971d9466d159b3"
+        "md5": "1f1e24c8108cd02ae79dad8ea7794071"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0d7eff5461d6e2c64d2df1c3d8253d55"
+        "md5": "b5089f59c7be902264a806369bd61c23"
     },
     {
         "path": "forside",
@@ -207,12 +317,22 @@
     {
         "path": "/forside/index.html",
         "type": "file",
-        "md5": "99601693ac16f357ef3ee1d6bef56573"
+        "md5": "4fbc736158e9f524a8fc879c4b801fb4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1e0f4b56b8fa6e0cbb6182f5acd58eb4"
+        "md5": "64de90e38e72c0b113712c8aedca96ab"
+    },
+    {
+        "path": "jonas-aka-resurrectum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/jonas-aka-resurrectum/index.html",
+        "type": "file",
+        "md5": "868d3074347042329c7dd2c5fbb069e8"
     },
     {
         "path": "kontakt",
@@ -222,17 +342,52 @@
     {
         "path": "/kontakt/index.html",
         "type": "file",
-        "md5": "263f08cb1d4f40afd7d16dae13cb30b2"
+        "md5": "3e4f6223c9e039e36f753c7a60d93b25"
     },
     {
-        "path": "resurectum",
+        "path": "media",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/resurectum/index.html",
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png",
         "type": "file",
-        "md5": "d1a5d247a4d9b869142ee98767fcbe88"
+        "md5": "48ea980f99d66982eb98ea7f38a950bf"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2024-09-12-13-45-36-lg.png",
+        "type": "file",
+        "md5": "dc86f1e6e8cfe4c5113694d2dcffc3f0"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2024-09-12-13-45-36-md.png",
+        "type": "file",
+        "md5": "dc86f1e6e8cfe4c5113694d2dcffc3f0"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2024-09-12-13-45-36-sm.png",
+        "type": "file",
+        "md5": "dc86f1e6e8cfe4c5113694d2dcffc3f0"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2024-09-12-13-45-36-xs.png",
+        "type": "file",
+        "md5": "e3e745f7066b1c5f52e6c406d44e3fc5"
     },
     {
         "path": "robots.txt",
@@ -242,7 +397,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ff0b50ee44a5324c1660ff49a1fe34ca"
+        "md5": "5051a4e0abc8665afdaa2bfe10519762"
     },
     {
         "path": "sitemap.xsl",
@@ -262,12 +417,22 @@
     {
         "path": "/tags/blogpost/index.html",
         "type": "file",
-        "md5": "83f5e9e54a40b5d7841934b50503c276"
+        "md5": "81449c7ff90f3e90a425c5fae5dab9fc"
+    },
+    {
+        "path": "tags/butik",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/butik/index.html",
+        "type": "file",
+        "md5": "09dde6ca6231977c8ae468948f99e2f4"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8194c821281f75a442d145f09a2b63e5"
+        "md5": "14dcb5a183e327cb5058af42b0b79a09"
     },
     {
         "path": "tags/persongalleri",
@@ -277,6 +442,6 @@
     {
         "path": "/tags/persongalleri/index.html",
         "type": "file",
-        "md5": "6105422d3bd11a437ed94d48aaf12f04"
+        "md5": "c6f4e93b42ee3f9e5dc1cf273aab9a90"
     }
 ]

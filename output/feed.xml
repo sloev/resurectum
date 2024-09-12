@@ -3,12 +3,80 @@
     <title>Resurectum</title>
     <link href="https://resurectum.buro.earth/feed.xml" rel="self" />
     <link href="https://resurectum.buro.earth" />
-    <updated>2024-09-06T11:50:33+02:00</updated>
+    <updated>2024-09-12T13:55:00+02:00</updated>
     <author>
         <name>Rasmus Pave</name>
     </author>
     <id>https://resurectum.buro.earth</id>
 
+    <entry>
+        <title>Balle</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/balle/"/>
+        <id>https://resurectum.buro.earth/balle/</id>
+        <media:content url="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
+            <category term="persongalleri"/>
+
+        <updated>2024-09-12T13:45:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
+                    Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og mere viklet ind i Helteholdet, bliver Balle overladt til sig. Ensomheden kryber ind i Balles sumpede tilværelse, og han må finde ud af, hvad han skal stille op med sit liv.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Jonas aka Resurrectum</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/jonas-aka-resurrectum/"/>
+        <id>https://resurectum.buro.earth/jonas-aka-resurrectum/</id>
+            <category term="persongalleri"/>
+
+        <updated>2024-09-12T13:43:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Jonas er en ung superhelt med særlige kræfter. Som barn blev han fortryllet af en skovnisse. Det har givet ham en overnaturlig mave-fauna, der producerer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p><span style="font-weight: 400;">Jonas er en ung superhelt med særlige kræfter. Som barn blev han fortryllet af en skovnisse. Det har givet ham en overnaturlig mave-fauna, der producerer en magisk gødning, som kan genoplive alt dødt organisk materiale. Det vil sige planter, dyr og mennesker. Jonas er blevet pålagt et kæmpemæssigt ansvar, for sådan en fortryllelse, kan nemt blive en forbandelse. Og falder han i de forkerte hænder, kan det blive katastrofalt. Jonas må stå op for sig selv, og gøre det rigtige.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Butik</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/en-ting-man-kan-kobe/"/>
+        <id>https://resurectum.buro.earth/en-ting-man-kan-kobe/</id>
+            <category term="butik"/>
+
+        <updated>2024-09-12T10:58:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Velkommen i butikken! Her vil du i den nære fremtid kunne købe alt muligt lækkert lir! Tegneserier, klistermærker, merch, plakater osv.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Velkommen i butikken! Her vil du i den nære fremtid kunne købe alt muligt lækkert lir! Tegneserier, klistermærker, merch, plakater osv.</span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Forside</title>
         <author>
@@ -18,8 +86,23 @@
         <id>https://resurectum.buro.earth/forside/</id>
 
         <updated>2024-09-06T11:50:33+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    Om tegneserien Resurrectum begyndte ligeså stille at forme sig for flere år siden. Som mange andre fortællinger, begyndte det med én særlig scene, som jeg&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1><span style="font-weight: 400;">Om tegneserien</span></h1>
+<p><span style="font-weight: 400;">Resurrectum begyndte ligeså stille at forme sig for flere år siden. Som mange andre fortællinger, begyndte det med én særlig scene, som jeg havde haft i tankerne i lang tid. I oktober 2023 blev denne scene nedskrevet, og derfra udviklede det sig det til det, det er i dag. Tegneserien er et projekt drevet af passion og kærlighed for mediet, og ikke mindst fortællingerne.</span></p>
+<p><span style="font-weight: 400;">Illustreret af Rasmus Broch, skrevet af Rasmus Pape.</span></p>
+<h1><span style="font-weight: 400;">Intro til Resurrectum</span></h1>
+<p><span style="font-weight: 400;">Resurrectum er en satirisk superhelte tegneserie, som foregår i landet Danskland. Vi følger Jonas, alias Resurrectum, som for nylig er blevet ansat i </span><i><span style="font-weight: 400;">Helteholdet</span></i><span style="font-weight: 400;"> -  det nationale superhelte-hold. Her skal han vende sig til sit nye arbejde, nye kollegaer, og en helt anden tilgang til hvad det vil sige at være helt. </span></p>
+<p><span style="font-weight: 400;">Jonas har nogle helt unikke kræfter. Han har en overnaturlig mave fauna, der producerer en magisk gødning, der kan genoplive alt dødt organisk materiale. Det vil sige planter, dyr og ikke mindst mennesker. </span></p>
+<p><span style="font-weight: 400;">Hans helte-karriere op til sin ansættelse i Helteholdet, har været som </span><i><span style="font-weight: 400;">Skovrideren</span></i><span style="font-weight: 400;">, hvor han har passet på naturen på Sydføn. Her har han haft en rolig tilværelse, og gjort byen Svineborg til en blomstrende provinsby, og dermed blevet en lokal helt. </span></p>
+<p><span style="font-weight: 400;">En dag, som enhver anden, fandt han ved et uheld ud af, at hans kræfter også gjaldt mennesker. En person var begravet i skoven og fik en brat opvågning, da Jonas skulle gøde skovbunden. Det fandt cheftræner af Helteholdet Søren Rozentræ ud af, og med det samme tog han kontakt til Jonas og gav ham et tilbud, han ikke kunne takke nej til.</span></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Kontakt</title>
@@ -43,19 +126,6 @@
             <category term="blogpost"/>
 
         <updated>2024-09-06T11:49:13+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Resurectum</title>
-        <author>
-            <name>Rasmus Pave</name>
-        </author>
-        <link href="https://resurectum.buro.earth/resurectum/"/>
-        <id>https://resurectum.buro.earth/resurectum/</id>
-            <category term="persongalleri"/>
-
-        <updated>2024-09-06T11:48:37+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
