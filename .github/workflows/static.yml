@@ -37,8 +37,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: unzip
         run: |
-          unzip -o resurectum.zip -d ./docs
-          rm resurectum.zip
+          unzip -o resurrectum.zip -d ./docs
+          rm resurrectum.zip
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
