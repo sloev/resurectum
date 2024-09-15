@@ -11,20 +11,7 @@
          <div class="post_content_area">
          <header>
             <h1 class="post__title">{{title}}</h1>
-            {{#checkIfAny @config.post.displayDate }}
-               <div class="post__meta">
-                  {{#if @config.post.displayDate}}
-                     <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
-                        {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                           {{date createdAt @config.custom.formatDate}}
-                        {{else}}
-                           {{date createdAt @config.custom.formatDateCustom}}
-                        {{/checkIf}}
-                     </time>
-                  {{/if}}
-               
-               </div>
-            {{/checkIfAny}}   
+            
 
             {{#if @config.post.displayTags}}
                {{#if tags}}

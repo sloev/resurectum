@@ -63,7 +63,7 @@ html.no-scroll {
 body {
   
   background: hsla(var(--background), var(--alpha, 1));
-  color: #000000;
+  color: hsla(var(--color), var(--alpha, 1));
   font-family: var(--body-font);
   font-variation-settings: "wght" var(--font-weight-normal);
   letter-spacing: var(--letter-spacing);
@@ -1008,7 +1008,7 @@ input[type=radio] {
   background-image: url(images/paper_post.2.png);
   background-position: center top;
   background-repeat: repeat-y;
-  background-size: 100% 100%;
+  padding: 0px 10px 0px 10px;
 }
 
 .post_paper_start {

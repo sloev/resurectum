@@ -1,0 +1,47 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+
+<style>
+    .comic {
+        font-family: "Shantell Sans", cursive;
+        font-style: normal;
+        position: relative;
+        font-size: 20px;
+    }
+</style>
+<div><span class="lol">hello world</span></div>
+<script>
+    const xRange = 0.2
+    const yRange = 0.2
+    const nodeList = document.querySelectorAll('span.lol')
+    for (let i = 0; i < nodeList.length; i++) {
+        const target = nodeList[i]
+
+        const val = target.textContent
+
+        const chars = val.split('');
+        console.log(Math.random())
+        target.innerHTML = chars.map(c => {
+            const x =  -(Math.random() * xRange).toFixed(2)
+            const y =  -(Math.random() * yRange).toFixed(2)
+            const w = Math.floor(Math.random() * 500+300)
+            const il = Math.random().toFixed(2)
+            const inf = Math.floor(Math.random()*100)
+            const b = Math.floor(Math.random() * 200-100)
+            const s = (Math.random()*0.2+0.3).toFixed(2)
+            const r = Math.floor(Math.random()*30-15)
+
+            return `<span class="comic" style="
+    bottom: ${y}ch;
+    margin-left: ${x}ch;
+     font-variation-settings:
+    'wght' ${w},
+    'ital' ${il},
+    'INFM' ${inf},
+    'BNCE' ${b};
+            ">${c}</span>`
+        }).join('');
+    };
+</script>

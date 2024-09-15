@@ -8,34 +8,7 @@
       <article class="post">      
                            <div class="post_content_area">
 
-         <header>
-            <h1 class="post__title">{{title}}</h1>
-            {{#checkIfAny postViewConfig.displayDate postViewConfig.displayAuthor}}
-               <div class="post__meta">
-                  {{#if postViewConfig.displayDate}}
-                     <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
-                        {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                           {{date createdAt @config.custom.formatDate}}
-                        {{else}}
-                           {{date createdAt @config.custom.formatDateCustom}}
-                        {{/checkIf}}
-                     </time>
-                  {{/if}}
-               
-               
-               </div>
-            {{/checkIfAny}}   
-
-            {{#if postViewConfig.displayTags}}
-               {{#if tags}}
-                  <div class="post__tags">
-                        {{#each tags}}
-                           <a href="{{url}}" class="invert">{{name}}</a>
-                        {{/each}} 
-                  </div>
-               {{/if}}
-            {{/if}}
-         </header>
+         
 
          <div class="post__entry">           
             {{{text}}}            

@@ -6,6 +6,13 @@
     content:url('images/home.0.gif') url('images/home.1.gif') url('images/butik.0.png') url('images/butik.1.png') url('images/blog.0.png') url('images/blog.1.png') url('images/kontakt.0.png') url('images/kontakt.1.png') url('images/persongalleri.0.png') url('images/persongalleri.1.png');
  }
 
+ .comic {
+    font-family: "Shantell Sans", cursive;
+    font-style: normal;
+    position: relative;
+}
+ 
+
 .forside-link {
     position: relative;
     margin:5px;

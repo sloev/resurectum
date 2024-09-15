@@ -41,22 +41,7 @@
                   <header>
                      <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
                      {{#checkIfAny @config.custom.listingDate @config.custom.listingAuthor}}
-                        <div class="post__meta">     
-                           {{#if @config.custom.listingDate}}
-                              <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
-                                 {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                    {{date createdAt @config.custom.formatDate}}
-                                 {{else}}
-                                    {{date createdAt @config.custom.formatDateCustom}}
-                                 {{/checkIf}}
-                              </time>
-                           {{/if}}
-                           {{#if @config.custom.listingAuthor}}
-                              {{#author}}
-                                 <a href="{{url}}" class="post__author">{{name}}</a>
-                              {{/author}}
-                           {{/if}}
-                        </div> 
+                       
                      {{/checkIfAny}}  
 
                      {{#checkIf @config.custom.listingTag '!==' "none" }}

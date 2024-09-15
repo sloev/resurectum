@@ -12,20 +12,7 @@
 
          <header>
             <h1 class="post__title">{{title}}</h1>
-            {{#checkIfAny @config.page.displayDate @config.page.displayAuthor}}
-               <div class="post__meta">
-                  {{#if @config.page.displayDate}}
-                     <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
-                        {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                           {{date createdAt @config.custom.formatDate}}
-                        {{else}}
-                           {{date createdAt @config.custom.formatDateCustom}}
-                        {{/checkIf}}
-                     </time>
-                  {{/if}}
-               
-               </div>
-            {{/checkIfAny}}   
+          
          </header>
 
           {{#featuredImage}}
