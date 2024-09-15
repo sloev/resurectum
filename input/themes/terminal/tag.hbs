@@ -54,14 +54,8 @@
                   {{/if}}      
                   
                   <div class="post__content">
-                     {{#if hasCustomExcerpt}}
-                        {{{ excerpt }}}
-                     {{else}}
-                        <p>{{{ excerpt }}}</p>
-                     {{/if}}
-                     {{#if @config.custom.listingReadMore}}
-                           <a href="{{url}}" class="read-more">{{ translate 'post.readMore' }} &#8594;</a>
-                     {{/if}}
+                        {{{ text }}}
+                   
                   </div>
                      <div class="post_paper_start"></div>
 
