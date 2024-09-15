@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-pizza"
     },
-    "domain": "https://resurectum.buro.earth",
+    "domain": "https://resurrectum.buro.earth",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -224,5 +224,5 @@
         }
     },
     "theme": "terminal",
-    "syncDate": 1726432244691
+    "syncDate": 1726432601519
 }

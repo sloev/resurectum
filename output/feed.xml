@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Resurrectum</title>
-    <link href="https://resurectum.buro.earth/feed.xml" rel="self" />
-    <link href="https://resurectum.buro.earth" />
+    <link href="https://resurrectum.buro.earth/feed.xml" rel="self" />
+    <link href="https://resurrectum.buro.earth" />
     <updated>2024-09-15T22:21:15+02:00</updated>
     <author>
         <name>Rasmus Pave</name>
     </author>
-    <id>https://resurectum.buro.earth</id>
+    <id>https://resurrectum.buro.earth</id>
 
     <entry>
         <title>Hjemmeside</title>
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/hjemmeside/"/>
-        <id>https://resurectum.buro.earth/hjemmeside/</id>
+        <link href="https://resurrectum.buro.earth/hjemmeside/"/>
+        <id>https://resurrectum.buro.earth/hjemmeside/</id>
             <category term="blogpost"/>
 
         <updated>2024-09-12T22:20:00+02:00</updated>
@@ -35,8 +35,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/jonas-aka-resurrectum/"/>
-        <id>https://resurectum.buro.earth/jonas-aka-resurrectum/</id>
+        <link href="https://resurrectum.buro.earth/jonas-aka-resurrectum/"/>
+        <id>https://resurrectum.buro.earth/jonas-aka-resurrectum/</id>
             <category term="persongalleri"/>
 
         <updated>2024-09-12T13:43:03+02:00</updated>
@@ -57,8 +57,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/en-ting-man-kan-kobe/"/>
-        <id>https://resurectum.buro.earth/en-ting-man-kan-kobe/</id>
+        <link href="https://resurrectum.buro.earth/en-ting-man-kan-kobe/"/>
+        <id>https://resurrectum.buro.earth/en-ting-man-kan-kobe/</id>
             <category term="butik"/>
 
         <updated>2024-09-12T10:58:18+02:00</updated>
@@ -79,8 +79,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/forside/"/>
-        <id>https://resurectum.buro.earth/forside/</id>
+        <link href="https://resurrectum.buro.earth/forside/"/>
+        <id>https://resurrectum.buro.earth/forside/</id>
 
         <updated>2024-09-06T11:50:33+02:00</updated>
             <summary>
@@ -106,8 +106,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/kontakt/"/>
-        <id>https://resurectum.buro.earth/kontakt/</id>
+        <link href="https://resurrectum.buro.earth/kontakt/"/>
+        <id>https://resurrectum.buro.earth/kontakt/</id>
 
         <updated>2024-09-06T11:50:07+02:00</updated>
             <summary>
@@ -126,8 +126,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/blogpost-1/"/>
-        <id>https://resurectum.buro.earth/blogpost-1/</id>
+        <link href="https://resurrectum.buro.earth/blogpost-1/"/>
+        <id>https://resurrectum.buro.earth/blogpost-1/</id>
             <category term="blogpost"/>
 
         <updated>2024-08-20T11:49:00+02:00</updated>
@@ -149,21 +149,21 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="https://resurectum.buro.earth/balle/"/>
-        <id>https://resurectum.buro.earth/balle/</id>
-        <media:content url="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
+        <link href="https://resurrectum.buro.earth/balle/"/>
+        <id>https://resurrectum.buro.earth/balle/</id>
+        <media:content url="https://resurrectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
             <category term="persongalleri"/>
 
         <updated>2024-08-12T13:45:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
+                        <img src="https://resurrectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
                     Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://resurrectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og mere viklet ind i Helteholdet, bliver Balle overladt til sig. Ensomheden kryber ind i Balles sumpede tilværelse, og han må finde ud af, hvad han skal stille op med sit liv.</span></p>
             ]]>
         </content>
