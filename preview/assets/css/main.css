@@ -487,9 +487,9 @@ input[type=radio] {
 }
 
 .header {
-  background-size: 100% auto;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center top;
+  background-position: center bottom;
   background-image: url(images/paper_header.png);
   padding: 0px var(--page-margin) 0px var(--page-margin);
   display: flex;
