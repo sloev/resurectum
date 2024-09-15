@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Resurectum</title>
-    <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/feed.xml" rel="self" />
-    <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview" />
-    <updated>2024-09-12T13:55:00+02:00</updated>
+    <title>Resurrectum</title>
+    <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/feed.xml" rel="self" />
+    <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview" />
+    <updated>2024-09-15T21:55:54+02:00</updated>
     <author>
         <name>Rasmus Pave</name>
     </author>
-    <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview</id>
+    <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview</id>
 
-    <entry>
-        <title>Balle</title>
-        <author>
-            <name>Rasmus Pave</name>
-        </author>
-        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/balle/index.html"/>
-        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/balle/index.html</id>
-        <media:content url="file:////home/nihil/Documents/Publii/sites/resurectum/preview/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
-            <category term="persongalleri"/>
-
-        <updated>2024-09-12T13:45:52+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="file:////home/nihil/Documents/Publii/sites/resurectum/preview/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
-                    Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="file:////home/nihil/Documents/Publii/sites/resurectum/preview/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og mere viklet ind i Helteholdet, bliver Balle overladt til sig. Ensomheden kryber ind i Balles sumpede tilværelse, og han må finde ud af, hvad han skal stille op med sit liv.</span></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Jonas aka Resurrectum</title>
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/jonas-aka-resurrectum/index.html"/>
-        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/jonas-aka-resurrectum/index.html</id>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/jonas-aka-resurrectum/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview/jonas-aka-resurrectum/index.html</id>
             <category term="persongalleri"/>
 
         <updated>2024-09-12T13:43:03+02:00</updated>
@@ -60,8 +36,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/en-ting-man-kan-kobe/index.html"/>
-        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/en-ting-man-kan-kobe/index.html</id>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/en-ting-man-kan-kobe/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview/en-ting-man-kan-kobe/index.html</id>
             <category term="butik"/>
 
         <updated>2024-09-12T10:58:18+02:00</updated>
@@ -82,8 +58,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/forside/index.html"/>
-        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/forside/index.html</id>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/forside/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview/forside/index.html</id>
 
         <updated>2024-09-06T11:50:33+02:00</updated>
             <summary>
@@ -109,8 +85,8 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/kontakt/index.html"/>
-        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/kontakt/index.html</id>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/kontakt/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview/kontakt/index.html</id>
 
         <updated>2024-09-06T11:50:07+02:00</updated>
             <summary></summary>
@@ -121,12 +97,36 @@
         <author>
             <name>Rasmus Pave</name>
         </author>
-        <link href="file:////home/nihil/Documents/Publii/sites/resurectum/preview/blogpost-1/index.html"/>
-        <id>file:////home/nihil/Documents/Publii/sites/resurectum/preview/blogpost-1/index.html</id>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/blogpost-1/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview/blogpost-1/index.html</id>
             <category term="blogpost"/>
 
         <updated>2024-09-06T11:49:13+02:00</updated>
             <summary></summary>
         <content></content>
+    </entry>
+    <entry>
+        <title>Balle</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/balle/index.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/resurrectum/preview/balle/index.html</id>
+        <media:content url="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
+            <category term="persongalleri"/>
+
+        <updated>2024-08-12T13:45:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
+                    Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="file:////home/nihil/Documents/Publii/sites/resurrectum/preview/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og mere viklet ind i Helteholdet, bliver Balle overladt til sig. Ensomheden kryber ind i Balles sumpede tilværelse, og han må finde ud af, hvad han skal stille op med sit liv.</span></p>
+            ]]>
+        </content>
     </entry>
 </feed>

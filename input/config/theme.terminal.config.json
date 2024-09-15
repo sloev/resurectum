@@ -17,7 +17,7 @@
         "tagsTagCount": false,
         "tagsPostCount": false,
         "listingFeaturedImage": true,
-        "listingAuthor": true,
+        "listingAuthor": false,
         "listingDate": true,
         "listingTag": "none",
         "listingReadMore": false,

@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Resurectum</title>
+    <title>Resurrectum</title>
     <link href="https://resurectum.buro.earth/feed.xml" rel="self" />
     <link href="https://resurectum.buro.earth" />
-    <updated>2024-09-12T13:55:00+02:00</updated>
+    <updated>2024-09-15T21:55:54+02:00</updated>
     <author>
         <name>Rasmus Pave</name>
     </author>
     <id>https://resurectum.buro.earth</id>
 
-    <entry>
-        <title>Balle</title>
-        <author>
-            <name>Rasmus Pave</name>
-        </author>
-        <link href="https://resurectum.buro.earth/balle/"/>
-        <id>https://resurectum.buro.earth/balle/</id>
-        <media:content url="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
-            <category term="persongalleri"/>
-
-        <updated>2024-09-12T13:45:52+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
-                    Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og mere viklet ind i Helteholdet, bliver Balle overladt til sig. Ensomheden kryber ind i Balles sumpede tilværelse, og han må finde ud af, hvad han skal stille op med sit liv.</span></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Jonas aka Resurrectum</title>
         <author>
@@ -128,5 +104,29 @@
         <updated>2024-09-06T11:49:13+02:00</updated>
             <summary></summary>
         <content></content>
+    </entry>
+    <entry>
+        <title>Balle</title>
+        <author>
+            <name>Rasmus Pave</name>
+        </author>
+        <link href="https://resurectum.buro.earth/balle/"/>
+        <id>https://resurectum.buro.earth/balle/</id>
+        <media:content url="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" medium="image" />
+            <category term="persongalleri"/>
+
+        <updated>2024-08-12T13:45:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" alt="" />
+                    Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://resurectum.buro.earth/media/posts/7/Screenshot-from-2024-09-12-13-45-36.png" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Jonas’ bedste ven og roommate. De bor sammen i Svineborg, og har indtil for nylig haft en hverdag sammen. Men som Jonas bliver mere og mere viklet ind i Helteholdet, bliver Balle overladt til sig. Ensomheden kryber ind i Balles sumpede tilværelse, og han må finde ud af, hvad han skal stille op med sit liv.</span></p>
+            ]]>
+        </content>
     </entry>
 </feed>

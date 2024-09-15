@@ -1,7 +1,7 @@
 {
     "uuid": "uuid-1725528015541-935070999",
-    "name": "resurectum",
-    "displayName": "Resurectum",
+    "name": "resurrectum",
+    "displayName": "Resurrectum",
     "synced": "synced",
     "logo": {
         "color": 1,
@@ -152,7 +152,7 @@
         },
         "relatedPostsOrder": "default",
         "relatedPostsCriteria": "titles-and-tags",
-        "relatedPostsIncludeAllPosts": true,
+        "relatedPostsIncludeAllPosts": false,
         "editors": {
             "wysiwygAdditionalValidElements": "",
             "customElements": "",
@@ -224,5 +224,5 @@
         }
     },
     "theme": "terminal",
-    "syncDate": 1726429548504
+    "syncDate": 1726431054250
 }
