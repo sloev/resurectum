@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-pizza"
     },
-    "domain": "https://resurrectum.buro.earth",
+    "domain": "/",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -162,7 +162,7 @@
     },
     "deployment": {
         "protocol": "manual",
-        "relativeUrls": false,
+        "relativeUrls": true,
         "port": "",
         "server": "",
         "username": "",
@@ -224,5 +224,5 @@
         }
     },
     "theme": "terminal",
-    "syncDate": 1726432601519
+    "syncDate": 1726432799856
 }
