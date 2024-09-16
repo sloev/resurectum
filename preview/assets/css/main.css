@@ -485,27 +485,30 @@ input[type=checkbox]:checked, input[type=radio]:checked {
 input[type=radio] {
   border-radius: 50%;
 }
-
-.header {
+.header-wrapper {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-image: url(images/paper_header.png);
-  padding: 0px var(--page-margin) 0px var(--page-margin);
-  display: flex;
+  height:200px;
+}
+
+.header {
+  height:100px;
+  padding: 0px 10px 0px 0px;
+  display: grid; 
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    ". . . . ."; 
 }
 @media all and (max-width: 42.6875em) {
   .header {
     justify-content: space-between;
-    gap: 10px;
   }
 }
-@media all and (min-width: 42.75em) {
-  .header {
-    flex-direction: column;
-    position: relative;
-  }
-}
+
 .header__logo {
   display: flex;
   flex: 1;
