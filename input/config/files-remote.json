@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "fdc02baec730e64a17e425036da9259d"
+        "md5": "54c4f3fa16a9f85f4a1485034dbe96d6"
     },
     {
         "path": "CNAME",
@@ -177,32 +177,12 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "700a631adee004f18b4c8b8649a4bfa8"
+        "md5": "1fde1e296e171960365f3a16162d42ad"
     },
     {
         "path": "assets/dynamic",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "assets/dynamic/fonts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "assets/dynamic/fonts/redhatmono",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/dynamic/fonts/redhatmono/redhatmono-italic.woff2",
-        "type": "file",
-        "md5": "a2b0a56116ad111a61b2cfb3ab10a2ee"
-    },
-    {
-        "path": "/assets/dynamic/fonts/redhatmono/redhatmono.woff2",
-        "type": "file",
-        "md5": "5cf90c6fb7319eb30348c7ee68a26ae9"
     },
     {
         "path": "assets/js",
@@ -272,7 +252,7 @@
     {
         "path": "/authors/rasmus-pave/index.html",
         "type": "file",
-        "md5": "f886371488785666465edfe6091099b6"
+        "md5": "b95acbd3535045b590070ae21030d2de"
     },
     {
         "path": "authors/rasmus-pave/page",
@@ -287,7 +267,7 @@
     {
         "path": "/authors/rasmus-pave/page/2/index.html",
         "type": "file",
-        "md5": "a1146e998a13c28dbb453fdae7a5ca35"
+        "md5": "940151b8b8b42347b083994c8b4e0cac"
     },
     {
         "path": "balle",
@@ -297,7 +277,7 @@
     {
         "path": "/balle/index.html",
         "type": "file",
-        "md5": "f592d1ec798740bdeee65fdf4d4d94fd"
+        "md5": "54c7075e803de6411f48ea0664a1e137"
     },
     {
         "path": "blogpost-1",
@@ -307,7 +287,7 @@
     {
         "path": "/blogpost-1/index.html",
         "type": "file",
-        "md5": "f43303a23857289834f07beb34b0fabe"
+        "md5": "40335f4ad767c065f3b1672a0b20f737"
     },
     {
         "path": "en-ting-man-kan-kobe",
@@ -317,7 +297,7 @@
     {
         "path": "/en-ting-man-kan-kobe/index.html",
         "type": "file",
-        "md5": "a0313643fdb5307bd30577209fdc26cf"
+        "md5": "29ae24582b76669688879d9723feeece"
     },
     {
         "path": "forside",
@@ -327,7 +307,7 @@
     {
         "path": "/forside/index.html",
         "type": "file",
-        "md5": "0b216787e4661ae807862e87b6a0e92d"
+        "md5": "c81c5475c0b7ab7b1087b918aefac1d7"
     },
     {
         "path": "hjemmeside",
@@ -337,12 +317,12 @@
     {
         "path": "/hjemmeside/index.html",
         "type": "file",
-        "md5": "ca93b4754e92a39ae3cea07b2acdd49f"
+        "md5": "8d5a91bc11850e37e4cac4aa3c4f717d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "aa6cef8459345d90c97491cc10974780"
+        "md5": "8e8705b94f5e8594fdcbf6c02c7891a5"
     },
     {
         "path": "jonas-aka-resurrectum",
@@ -352,7 +332,7 @@
     {
         "path": "/jonas-aka-resurrectum/index.html",
         "type": "file",
-        "md5": "9466224a3183a7ce50cd5a960905df72"
+        "md5": "1a47d9d236fa83d8b45c6cb913f33422"
     },
     {
         "path": "kontakt",
@@ -362,7 +342,7 @@
     {
         "path": "/kontakt/index.html",
         "type": "file",
-        "md5": "1b209db732f33bc52b44007d700754e3"
+        "md5": "205208d93e0255d3f313ae426c43b803"
     },
     {
         "path": "media",
@@ -422,7 +402,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "2eecb740f331e06ef61ec0073fc20bba"
+        "md5": "a79bd00711094491729ae7f7b7761e5b"
     },
     {
         "path": "robots.txt",
@@ -442,7 +422,7 @@
     {
         "path": "/tags/blogpost/index.html",
         "type": "file",
-        "md5": "68266765f946175b02ec0e3e74f3409d"
+        "md5": "fcbe79244e308529f7034add640bc989"
     },
     {
         "path": "tags/butik",
@@ -452,12 +432,12 @@
     {
         "path": "/tags/butik/index.html",
         "type": "file",
-        "md5": "c352fe6ed32884c922c4d9e2b11ea623"
+        "md5": "7a256d21f63590fe00656fa8072d3706"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ecf73c7991d4be255b3699d82e59807d"
+        "md5": "6a4b03cc67a2496e676d66c0a4cd7e3b"
     },
     {
         "path": "tags/persongalleri",
@@ -467,6 +447,6 @@
     {
         "path": "/tags/persongalleri/index.html",
         "type": "file",
-        "md5": "27e4f88f44e6fcc331e26791813e387d"
+        "md5": "50b5f54b6e9e4f4efa16482ab4750c99"
     }
 ]

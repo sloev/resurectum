@@ -536,8 +536,8 @@ if (params.accentColor === 'custom') {
       --baseline:           0.25rem;
       --gallery-gap:        ${params.galleryItemGap}; 
       --transition:         all 0.24s ease-out;
-      --body-font:          ${fontBodyFamily};
-      --heading-font:       ${fontHeadingsFamily};
+      --body-font:          "Shantell Sans", cursive;
+      --heading-font:       "Shantell Sans", cursive;
       --logo-font:          ${params.fontLogo};
       --menu-font:          ${params.fontMenu};
       --font-size:          ${fontSizeValue};
