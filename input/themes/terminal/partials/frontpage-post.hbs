@@ -1,50 +1,68 @@
 <main class="content page">
-   {{#getPost @config.custom.frontPost}}
-{{#if @customHTML.afterPost}}
-         <div class="banner banner--before-post">
-            {{{@customHTML.afterPost}}}
-         </div>
-      {{/if}}
-      <article class="post">      
-                           <div class="post_content_area">
+   {{#each @website.contentStructure.tags}}
+  {{#checkIf this.name '==' 'forside'}}
+    {{#if this.postsNumber}}
+    {{#each this.posts}}
+     <article class="post">
+                                    <div class="post_content_area">
 
-         
+                  <header>
+                     <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
+                  
+                     
+                     {{#checkIf @config.custom.listingTag '!==' "none" }}
+                        <div class="post__tags">
+                           {{#checkIf @config.custom.listingTag '==' "maintag" }}
+                              {{#if mainTag}}
+                                 <a href="{{ mainTag.url }}" class="invert">{{ mainTag.name }}</a>
+                              {{/if}}
+                           {{else}}
+                              {{#each tags}}
+                                 <a href="{{url}}" class="invert">{{name}}</a>
+                              {{/each}}
+                           {{/checkIf}}
+                        </div>
+                     {{/checkIf}}
+                  </header>
 
-         <div class="post__entry">           
-            {{{text}}}            
-         </div>
-
-         {{#if postViewConfig.displayLastUpdatedDate}}
-            <footer class="wrapper post__footer">
-                  {{#if modifiedAt}}
-                     <p class="post__last-updated">
-                        {{ translate 'post.lastUpdatedDate' }}
-                        {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                           {{date modifiedAt @config.custom.formatDate}}
-                        {{else}}
-                           {{date modifiedAt @config.custom.formatDateCustom}}
-                        {{/checkIf}}
-                     </p>
-                  {{/if}}
-            </footer>
-         {{/if}}
-           <div class="post_paper_start"></div>
+                  {{#if @config.custom.listingFeaturedImage}}
+                     {{#featuredImage}}
+                        {{#if url}}
+                           <figure class="post__image post__cover">
+                                 <img
+                                    src="{{url}}"
+                                    {{#if @config.site.responsiveImages}}
+                                       {{responsiveImageAttributes 'featuredImage' srcset sizes}}
+                                    {{/if}}
+                                    {{ lazyload "lazy" }}
+                                    height="{{height}}"
+                                    width="{{width}}"
+                                    alt="{{alt}}">
+                                 {{#checkIfAny caption credits}}
+                                    <figcaption>
+                                       {{caption}}
+                                       {{credits}}
+                                    </figcaption>
+                                 {{/checkIfAny}}
+                              </figure>
+                        {{/if}}
+                     {{/featuredImage}}      
+                  {{/if}}      
+                  
+                  <div class="post__content">
+                        {{{ text }}}
+                   
+                  </div>
+                     <div class="post_paper_start"></div>
 
           </div>   
          <div class="post_paper_end"></div>
-      </article>
-      
-      {{#if postViewConfig.displayComments}}
-         <div class="post__comments">
-            {{{@commentsCustomCode}}}
-         </div>
-      {{/if}}
-
-      {{#if @customHTML.afterPost}}
-         <div class="banner banner--after-post">
-            {{{@customHTML.afterPost}}}
-         </div>
-      {{/if}}
-    
-   {{/getPost}}
-</main>
+               </article>
+    {{/each}}
+    {{else}}
+      There are no posts connected with TAGNAME :(
+    {{/if}}
+  {{/checkIf}}
+{{/each}}
+  
+  </main>

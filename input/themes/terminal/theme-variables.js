@@ -536,8 +536,8 @@ if (params.accentColor === 'custom') {
       --baseline:           0.25rem;
       --gallery-gap:        ${params.galleryItemGap}; 
       --transition:         all 0.24s ease-out;
-      --body-font:          "Shantell Sans", cursive;
-      --heading-font:       "Shantell Sans", cursive;
+      --body-font:          "Courier Prime", monospace;
+      --heading-font:       "Courier Prime", monospace;
       --logo-font:          ${params.fontLogo};
       --menu-font:          ${params.fontMenu};
       --font-size:          ${fontSizeValue};

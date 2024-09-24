@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "4908fe4a893117fc257213fe0640dad5"
+        "md5": "7116b919979d00979b62391bf540953a"
     },
     {
         "path": "CNAME",
@@ -38,6 +38,11 @@
         "path": "/assets/css/images/background.jpg",
         "type": "file",
         "md5": "10f83045d63471b5211af8d265dba8d9"
+    },
+    {
+        "path": "/assets/css/images/background.png",
+        "type": "file",
+        "md5": "7b695114a0706af95844dbb07e6cb108"
     },
     {
         "path": "/assets/css/images/blog.0.png",
@@ -160,6 +165,26 @@
         "md5": "692d6050e97880c3e6f4803b1fb8e436"
     },
     {
+        "path": "/assets/css/images/pin.1.png",
+        "type": "file",
+        "md5": "3f1e908e3fe1a66a006b93f0e473db88"
+    },
+    {
+        "path": "/assets/css/images/pin.2.png",
+        "type": "file",
+        "md5": "7fd00da0d1363ee7d0921e2ed9fbe8fe"
+    },
+    {
+        "path": "/assets/css/images/pin.3.png",
+        "type": "file",
+        "md5": "eadcbf6726e1361455af3393544ccef3"
+    },
+    {
+        "path": "/assets/css/images/pin.4.png",
+        "type": "file",
+        "md5": "b357170b966fb7c77a2c0330cceea3b8"
+    },
+    {
         "path": "/assets/css/images/texturefabrik_tornpaper_02.webp",
         "type": "file",
         "md5": "02dfd47016e7cb8206819be010adc4a2"
@@ -177,7 +202,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "cae43bb6ed8e982f357a7f1873026485"
+        "md5": "ad981f3a2e44e880211f60096da984ab"
     },
     {
         "path": "assets/dynamic",
@@ -252,7 +277,7 @@
     {
         "path": "/authors/rasmus-pave/index.html",
         "type": "file",
-        "md5": "725e352e3f9ecaa7c556f118972f42a9"
+        "md5": "ab690ecfee92dd9936f0f5704853ef13"
     },
     {
         "path": "authors/rasmus-pave/page",
@@ -267,7 +292,7 @@
     {
         "path": "/authors/rasmus-pave/page/2/index.html",
         "type": "file",
-        "md5": "29a7ed3659316d340e78a4df839a108f"
+        "md5": "197e4a94ab3dac8a5e0185393ddafada"
     },
     {
         "path": "balle",
@@ -277,7 +302,7 @@
     {
         "path": "/balle/index.html",
         "type": "file",
-        "md5": "60c5ac058ef07ea2b4cb1a0e6c57fb3a"
+        "md5": "8057ba442c12fb853d2fde0ec4293e96"
     },
     {
         "path": "blogpost-1",
@@ -287,7 +312,7 @@
     {
         "path": "/blogpost-1/index.html",
         "type": "file",
-        "md5": "3a0a3b37fa16ee860fa0bd69e9046d53"
+        "md5": "ff8d0d1285bfed0b443f80343e28d25d"
     },
     {
         "path": "en-ting-man-kan-kobe",
@@ -297,7 +322,7 @@
     {
         "path": "/en-ting-man-kan-kobe/index.html",
         "type": "file",
-        "md5": "72c9af9884c02364abc993e11cb8f003"
+        "md5": "638e8261d5fdac59b6cd7bd319647c33"
     },
     {
         "path": "forside",
@@ -307,7 +332,7 @@
     {
         "path": "/forside/index.html",
         "type": "file",
-        "md5": "2e86ec1e24ef1b26940de4af99d88b42"
+        "md5": "faf0890eb070d1b548af52a81917a0a7"
     },
     {
         "path": "hjemmeside",
@@ -317,12 +342,22 @@
     {
         "path": "/hjemmeside/index.html",
         "type": "file",
-        "md5": "0aea439833e1d44894d9125667f3caf3"
+        "md5": "78ee9d05f59afed6dd9a589c5119e75d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "55e2a27be88ad32ddc76edf8fa692bc8"
+        "md5": "7bf70988fb366bde00f710e9e860bdb2"
+    },
+    {
+        "path": "intro-til-resurrectum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/intro-til-resurrectum/index.html",
+        "type": "file",
+        "md5": "3d49eee2ecea2d118d46b2bc9e788f6c"
     },
     {
         "path": "jonas-aka-resurrectum",
@@ -332,7 +367,7 @@
     {
         "path": "/jonas-aka-resurrectum/index.html",
         "type": "file",
-        "md5": "311da81a7bf1b646a8e12895dccef895"
+        "md5": "f28aa537c869be753bec65830d56738f"
     },
     {
         "path": "kontakt",
@@ -342,7 +377,7 @@
     {
         "path": "/kontakt/index.html",
         "type": "file",
-        "md5": "edf983df942fa70770bf201d10c780ed"
+        "md5": "304d56f7da0ff06304d15993fab60a54"
     },
     {
         "path": "media",
@@ -390,6 +425,16 @@
         "md5": "e3e745f7066b1c5f52e6c406d44e3fc5"
     },
     {
+        "path": "om-tegneserien",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/om-tegneserien/index.html",
+        "type": "file",
+        "md5": "deb2528a2a6759c26d957fd546f5922c"
+    },
+    {
         "path": "page",
         "type": "directory",
         "md5": false
@@ -402,7 +447,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "9e35ee059b82d030f0797ee977304b44"
+        "md5": "6bc34acb14970026bc9f5d0f5a3cdcb8"
     },
     {
         "path": "robots.txt",
@@ -422,7 +467,7 @@
     {
         "path": "/tags/blogpost/index.html",
         "type": "file",
-        "md5": "3b955de5b87f4842f2c2bc6959227772"
+        "md5": "6e5999bb14267dba56ea8fa6f101c4a7"
     },
     {
         "path": "tags/butik",
@@ -432,12 +477,32 @@
     {
         "path": "/tags/butik/index.html",
         "type": "file",
-        "md5": "9fc1a72ec3a5edd0243c982d5193b805"
+        "md5": "687e3013c6c4c0dc6accb9d81c8b536b"
+    },
+    {
+        "path": "tags/forside",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/forside/index.html",
+        "type": "file",
+        "md5": "41bba501e5dd99629f088daa17be57c8"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "589928cf69807d9b141a8365d58c67fe"
+        "md5": "6208196d497b3029f8fe2111ed826192"
+    },
+    {
+        "path": "tags/kontakt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/kontakt/index.html",
+        "type": "file",
+        "md5": "cc16f58ec98ea3208849e92a89bf7d8c"
     },
     {
         "path": "tags/persongalleri",
@@ -447,6 +512,6 @@
     {
         "path": "/tags/persongalleri/index.html",
         "type": "file",
-        "md5": "aa7fca91488c9b74aa671a9c51dbccaf"
+        "md5": "b54ab93d10f8976f14a281bc1ff7071f"
     }
 ]

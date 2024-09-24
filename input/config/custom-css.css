@@ -1,17 +1,74 @@
 /*
  * Put your custom CSS code here
  */
+
  body::after{
     position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
-    content:url('images/home.0.gif') url('images/home.1.gif') url('images/butik.0.png') url('images/butik.1.png') url('images/blog.0.png') url('images/blog.1.png') url('images/kontakt.0.png') url('images/kontakt.1.png') url('images/persongalleri.0.png') url('images/persongalleri.1.png');
+    content:url('images/background.png') url('images/home.0.gif') url('images/home.1.gif') url('images/butik.0.png') url('images/butik.1.png') url('images/blog.0.png') url('images/blog.1.png') url('images/kontakt.0.png') url('images/kontakt.1.png') url('images/persongalleri.0.png') url('images/persongalleri.1.png');
  }
 
  .comic {
-    font-family: "Shantell Sans", cursive;
+    font-family: "Courier Prime", monospace;
     font-style: normal;
     position: relative;
 }
- 
+
+.post header {
+    padding-top:2px;
+}
+.post {
+    filter: drop-shadow(2px 5px 7px #000000);
+}
+.post h2 {
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    padding-top:40px;
+    margin-top:-40px;
+
+}
+.post:nth-child(1n) {
+    margin-left: -3px;
+}
+.post:nth-child(2n) {
+    margin-left: 4px;
+}
+.post:nth-child(3n) {
+    margin-left: -1px;
+}
+
+.post:nth-child(1n) {
+    padding-right: 2px;
+}
+.post:nth-child(2n) {
+    padding-right: 5px;
+}
+.post:nth-child(3n) {
+    padding-right: 1px;
+}
+.post:nth-child(4n) {
+    padding-right: 6px;
+}
+.post:nth-child(5n) {
+    padding-right: 3px;
+}
+
+.post:nth-child(1n) h2 {
+    background-image: url('images/pin.1.png');
+  
+}
+.post:nth-child(2n) h2 {
+    background-image: url('images/pin.2.png');
+
+}
+.post:nth-child(3n) h2 {
+    background-image: url('images/pin.3.png');
+
+}
+.post:nth-child(4n) h2 {
+    background-image: url('images/pin.4.png');
+
+}
 
 .forside-link {
     position: relative;
@@ -30,6 +87,9 @@
 }* { box-sizing: border-box; }
 .video-background {
   background: #000;
+  background-image: url('images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
   position: fixed;
   top: 0; right: 0; bottom: 0; left: 0;
   z-index: -99;
@@ -44,7 +104,7 @@
   pointer-events: none;
   opacity: 0;
 
-  animation: fadeInAnimation ease 2s 5s forwards;
+  animation: fadeInAnimation ease 5s 2s forwards;
   animation-iteration-count: 1;
 }
 @keyframes fadeInAnimation {
